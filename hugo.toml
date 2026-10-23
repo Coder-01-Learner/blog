@@ -26,8 +26,8 @@ hasCJKLanguage = true
   DateFormat = "2006-01-02"
 
   [params.homeInfoParams]
-    Title = "你好，我是 XXX"
-    Content = "这里记录我的技术笔记与长期思考。"
+    Title = "Hi, I'm Hu Yang"
+    Content = "This is where I keep my technical notes and long-term reflections."
 
   [[params.socialIcons]]
     name = "github"
